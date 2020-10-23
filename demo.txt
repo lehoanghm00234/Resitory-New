@@ -1,1 +1,3 @@
 các thuật ngữ về working dir, Staging area, Repository
+
+thay đổi tý
